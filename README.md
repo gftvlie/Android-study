@@ -14,13 +14,13 @@
     <tr>
         <th rowspan="2">整体进度</th>
         <th>5 月 13 日</th>
-        <th>5 月 14 日</th>
-        <th>5 月 15 日</th>
+        <th>5 月 16 日</th>
+        <th>5 月 17 日</th>
     </tr>
         <tr>
         
         <td> -初步下载安装开发过程中所需要的组件 -创建仓库，更新说明文档-待更新</td>
-        <td>待更新</td>
+        <td> -利用 Andriod Studio 自带的项目模板，在进一步更改尝试之后，导出了第一个只有 Hello world 的 App，在手机上测试效果可行  -在 Github 上 Fork 了一些安卓程序源代码，进一步研究中</td>
         <td>待更新</td>
     </tr>
 </table>
